@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
-show_downloads: false
 title: 테스트 페이지 타이틀
 description: 테스트 페이지 내용
+show_downloads: false
+theme: jekyll-theme-cayman
