@@ -1,6 +1,5 @@
-title: 타이틀
-description: 테스트 페이지 내용
-show_downloads: false
-github:
-  is_project_page: false
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
