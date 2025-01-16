@@ -1,3 +1,5 @@
+# 해당 Gemfile은 깃허브 페이지에서는 동작하지 않습니다. 로컬 환경 빌드를 위한 파일 입니다.
+
 # frozen_string_literal: true
 
 source "https://rubygems.org"
