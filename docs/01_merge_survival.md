@@ -109,7 +109,7 @@ description: 머지 서바이벌 소개글
 
 ![image12.png](./assets/image12.png)
 
-![[image13.png]]
+![image13.png](./assets/image13.png)
 
 ---
 
