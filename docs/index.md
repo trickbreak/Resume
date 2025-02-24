@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: 포트폴리오
+description: 소개글
+
 ---
 
 ## 소개
@@ -19,6 +22,7 @@ layout: default
 
 - 프로그래밍 언어 : C#, C++, C, Python, Objective-C, Java
 - 게임엔진 : Unity, Cocos2d
+- Unity Custom Editor 를 이용한 Unity Tool 개발
 - CI/CD : Jenkins, GitHub Actions
 - aos, ios 네이티브 유니티 플러그인 제작 (알림, 햅틱 진동 처리 등)
 - Docker, Git, .Net Blazor
@@ -38,7 +42,7 @@ layout: default
 	- 인게임 퍼즐 제작
 	- 아웃게임 월드 제작
 
-**상세 페이지** : [[머지 서바이벌]]
+**상세 페이지** : [[1. 머지 서바이벌]]
 
 ---
 
