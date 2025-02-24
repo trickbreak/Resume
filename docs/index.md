@@ -9,9 +9,7 @@ layout: default
 
 - 이름 : 이창현
 - 이메일 : trickbreak@naver.com
-- 블로그 : https://trickbreak.github.io/Blog/
-
-### 자기소개
+- 블로그 : [https://trickbreak.github.io/Blog/](https://trickbreak.github.io/Blog/)
 
 게임 개발자로서 다양한 프로젝트를 경험하며, Unity와 C#을 주력으로 게임 개발을 진행하고 있습니다. 개발 과정에서 발생하는 이슈를 해결하며 배우는 것을 즐기며, 이를 기록하고 공유하기 위해 기술 [블로그](https://trickbreak.github.io/Blog/)를 운영하고 있습니다.
 
@@ -19,15 +17,19 @@ layout: default
 
 ## 기술 및 역량
 
-- 프로그래밍 언어 : C#, C++, C, Python, 
-- 게임엔진 : Unity, Cocos2d-X
-- CI/CD : Jenkins
+- 프로그래밍 언어 : C#, C++, C, Python, Objective-C, Java
+- 게임엔진 : Unity, Cocos2d
+- CI/CD : Jenkins, GitHub Actions
+- aos, ios 네이티브 유니티 플러그인 제작 (알림, 햅틱 진동 처리 등)
+- Docker, Git, .Net Blazor
 
 ---
 
 ## 주요 프로젝트
 
 ### 1. 머지 서바이벌
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QhQPK9Aj7lI?si=JjVzvpPW1ogAePSn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - 소속 : 스티키핸즈
 - 출시 여부 : AOS / IOS 글로벌 출시
@@ -36,15 +38,13 @@ layout: default
 	- 인게임 퍼즐 제작
 	- 아웃게임 월드 제작
 
-**소개 영상**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QhQPK9Aj7lI?si=JjVzvpPW1ogAePSn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 **상세 페이지** : [[머지 서바이벌]]
 
 ---
 
 ### 2. 포코팡 타운
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C4teTSvbkU?si=rBKJn711FODT9IXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - 소속 : 트리노드
 - 출시 여부 : IOS / AOS 일본 서비스중
@@ -56,10 +56,6 @@ layout: default
 	- CI / CD (빌드 및 배포) 툴 관리
 	- 서버 컨텐츠 작업
 	- 어드민툴 개선
-
-**소개 영상**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C4teTSvbkU?si=rBKJn711FODT9IXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **상세 페이지** : [[포코팡 타운]]
 
@@ -84,6 +80,8 @@ layout: default
 
 ### 4. 허니 프렌즈
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GcfmlgWrMMc?si=9EBSSbn_ecbwi9e2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - 소속 : 가온미르
 - 출시 여부 : IOS, AOS 글로벌 출시
 - 사용 엔진 : Unity
@@ -93,15 +91,13 @@ layout: default
 	- 다국어 지원 시스템
 	- 다양한 해상도 대응 작업
 
-**소개 영상**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GcfmlgWrMMc?si=9EBSSbn_ecbwi9e2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 **상세 페이지** : [[허니 프렌즈]]
 
 ---
 
 ### 5. 작대기 영웅들
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dW0MDLJveYw?si=2NH5iwnI1kC02cdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - 소속 : 가온미르
 - 출시 여부 : IOS, AOS 글로벌 출시
@@ -112,15 +108,13 @@ layout: default
 	- 보스전 제작
 	- 광고 및 인앱 그리고 외부 플러그인 (google Analytics 등) 추가
 
-**소개 영상**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dW0MDLJveYw?si=2NH5iwnI1kC02cdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 **상세 페이지** : [[작대기 영웅들]]
 
 ---
 
 ### 6. 슬라이딩퍼즐:어드벤처
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyCi0J7fTpQ?si=0KAOLsylQ86fy8UX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - 소속 : 가온미르
 - 출시 여부 : AOS / IOS 글로벌 출시
@@ -131,10 +125,6 @@ layout: default
 	- 퍼즐 제작 툴 제작
 	- 다국어 지원 툴 제작
 	- 광고 및 인앱 그리고 외부 플러그인 (google Analytics 등) 추가
-
-**소개 영상**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TyCi0J7fTpQ?si=0KAOLsylQ86fy8UX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **상세 페이지** : [[슬라이딩퍼즐 어드벤처]]
 
