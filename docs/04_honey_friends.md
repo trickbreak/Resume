@@ -4,7 +4,7 @@ title: 허니 프렌즈
 description: 허니 프렌즈 소개글
 ---
 
-![[image51.png]]
+![image51.png](./assets/image51.png)
 
 **허니 프렌즈**는 _슬라이딩 퍼즐: 어드벤처_ 의 **보너스 스테이지 방식을 메인 게임으로 개발한 퍼즐 게임** 입니다.
 
@@ -30,10 +30,10 @@ description: 허니 프렌즈 소개글
 
 ## 스크린샷
 
-![[image52.png]]
+![image52.png](./assets/image52.png)
 
-![[image53.png]]
+![image53.png](./assets/image53.png)
 
-![[image54.png]]
+![image54.png](./assets/image54.png)
 
-![[image55.png]]
+![image55.png](./assets/image55.png)

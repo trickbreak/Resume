@@ -4,7 +4,7 @@ title: SEACUBE W-Surfing
 description: SEACUBE W-Surfing 소개글
 ---
 
-![[image92.png]]
+![image92.png](./assets/image92.png)
 
 - **개발 기간**: 2014년 (약 3주)
 - **사용 엔진**: cocos2d
@@ -18,11 +18,11 @@ description: SEACUBE W-Surfing 소개글
 
 ## 게임 모드
 
-![[image93.png]]
+![image93.png](./assets/image93.png)
 
-![[image96.png]]
+![image96.png](./assets/image96.png)
 
-![[image97.png]]
+![image97.png](./assets/image97.png)
 
 ### 1. 스토리 모드
 
@@ -42,7 +42,7 @@ description: SEACUBE W-Surfing 소개글
 
 ## **조작 방식**
 
-![[image94.png]]
+![image94.png](./assets/image94.png)
 
 - **서핑세일과 바람의 각도를 45도 유지하면 최대 속도로 이동 가능**.
 - **화면 하단의 화살표 버튼**을 이용해 각도를 조절.
@@ -52,7 +52,7 @@ description: SEACUBE W-Surfing 소개글
 
 ## **게임 플레이 특징**
 
-![[image95.png]]
+![image95.png](./assets/image95.png)
 
 - **PVC 방식의 레이싱 게임**.
 - 상대 선수들은 **사전 지정된 경로 데이터를 기반으로 이동**.

@@ -4,7 +4,7 @@ title: 까요까요
 description: 까요까요 소개글
 ---
 
-![[image87.png]]
+![image87.png](./assets/image87.png)
 
 ## 개발 기간
 
@@ -14,9 +14,9 @@ description: 까요까요 소개글
 
 ## 플레이 방식
 
-![[image88.png]]
+![image88.png](./assets/image88.png)
 
-![[image89.png]]
+![image89.png](./assets/image89.png)
 
 - **두 가지 형태의 마트료시카 인형이 상단에 순차적으로 표시됨**.
 - 플레이어는 **하단의 버튼을 터치하여 해당 인형과 동일한 버튼을 빠르고 정확하게 눌러야 함**.
@@ -28,7 +28,7 @@ description: 까요까요 소개글
 
 ## 컬렉션 시스템
 
-![[image90.png]]
+![image90.png](./assets/image90.png)
 
 - 다양한 **수집 가능한 아이템 존재**.
 - 높은 점수를 기록하여 **모든 수집품을 모으는 것이 목표**.
@@ -37,7 +37,7 @@ description: 까요까요 소개글
 
 ## 랭킹 시스템
 
-![[image91.png]]
+![image91.png](./assets/image91.png)
 
 - **구글 플레이 및 게임센터 연동**.
 - **랭킹 시스템을 통해 플레이어 간 경쟁 가능**.

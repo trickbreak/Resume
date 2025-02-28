@@ -52,9 +52,9 @@ description: 포코팡 타운 소개글
 
 ## 게임 개발에 필요한 도구 개발
 
-![[image28.png]]
+![image28.png](./assets/image28.png)
 
-![[image29.gif]]
+![image29.gif](./assets/image29.gif)
 
 <img src="./assets/image30.png" width="52%" height="52%"><img src="./assets/image31.gif" width="48%" height="48%">
 
@@ -126,9 +126,9 @@ description: 포코팡 타운 소개글
 
 ### TextMeshProToTexture
 
-![[image38.png]]
+![image38.png](./assets/image38.png)
 
-![[image39.png]]
+![image39.png](./assets/image39.png)
 
 #### 1. 기존 문제점
 
@@ -349,11 +349,11 @@ Docker를 활용한 빌드 환경 구축이 일부 실패하면서, **CI/CD 운�
 
 ## 어드민 툴 개선
 
-![[image40.png]]
+![image40.png](./assets/image40.png)
 
-![[image41.png]]
+![image41.png](./assets/image41.png)
 
-![[image42.png]]
+![image42.png](./assets/image42.png)
 
 ### 1. 기존 어드민 툴의 문제점
 

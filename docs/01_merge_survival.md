@@ -163,7 +163,7 @@ description: 머지 서바이벌 소개글
 
 ### 보드 제작 툴
 
-![[ingame_grid_tool.mp4]]
+![ingame_grid_tool.mp4](./assets/ingame_grid_tool.mp4)
 
 - **초기 보드 데이터를 제작할 수 있는 툴 개발**.
 - **유니티 에디터 모드에서 직접 수정 가능**, 보드 데이터를 **JSON 형태로 저장 및 불러오기 가능**.
