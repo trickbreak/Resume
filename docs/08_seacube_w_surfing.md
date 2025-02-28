@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SEACUBE W-Surfing
-description: SEACUBE W-Surfing 소개글
+description: cocos2d로 개발된 모바일 게임 입니다. IOS 출시를 했습니다. 현재는 서비스중이 아닙니다. 정부 지원사업의 일부 프로젝트 였습니다.
 ---
 
 ![image92.png](./assets/image92.png)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 포코팡 타운
-description: 포코팡 타운 소개글
+description: 유니티로 개발된 모바일 캐주얼 퍼즐 게임 입니다. 현재 AOS / IOS 일본 서버스중 입니다.
 ---
 
 <img src="./assets/image17.png" width="50%" height="50%"><img src="./assets/image18.png" width="50%" height="50%">

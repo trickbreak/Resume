@@ -4,11 +4,13 @@
 
 layout: default
 title: 포트폴리오
-description: 소개글
+description: 게임 개발 프로그래머의 포트폴리오 페이지 입니다.
 
 ---
 
 ## 소개
+
+<img src="./assets/MyProfile-512.png" width="50%" height="50%">
 
 - 이름 : 이창현
 - 이메일 : trickbreak@naver.com

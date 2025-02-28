@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 머지 서바이벌
-description: 머지 서바이벌 소개글
+description: 유니티로 개발된 모바일 캐주얼 퍼즐 게임 입니다. 현재 AOS / IOS 글로벌 서버스중 입니다.
 ---
 
 <img src="./assets/image1.jpeg" width="50%" height="50%"><img src="./assets/image2.jpeg" width="50%" height="50%">

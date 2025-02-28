@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 허니 프렌즈
-description: 허니 프렌즈 소개글
+description: 유니티로 개발된 모바일 캐주얼 퍼즐 게임 입니다. AOS / IOS 글로벌 출시를 했습니다. 현재는 서비스중이 아닙니다.
 ---
 
 ![image51.png](./assets/image51.png)

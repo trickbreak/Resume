@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 까요까요
-description: 까요까요 소개글
+description: 유니티로 개발된 모바일 캐주얼 게임 입니다. 내부 테스트 후 기준을 만족하지 못해 출시는 하지 못했습니다.
 ---
 
 ![image87.png](./assets/image87.png)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 작대기 영웅들
-description: 작대기 영웅들 소개글
+description: 유니티로 개발된 모바일 캐주얼 게임 입니다. AOS / IOS 글로벌 출시를 했습니다. 현재는 서비스중이 아닙니다.
 ---
 ![image56.png](./assets/image56.png)
 

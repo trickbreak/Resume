@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 대륙의 지배자
-description: 대륙의 지배자 소개글
+description: 유니티로 개발된 모바일 RPG 게임 입니다. 회사가 망해서 개발이 중단된 프로젝트 입니다.
 ---
 
 ![image43.png](./assets/image43.png)
