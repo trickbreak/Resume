@@ -58,12 +58,14 @@ description: 게임 개발 프로그래머의 포트폴리오 페이지 입니�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QhQPK9Aj7lI?si=JjVzvpPW1ogAePSn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-- 소속 : 스티키핸즈
+- 소속 : 스티키핸즈 (2022.03 ~ 재직중)
 - 출시 여부 : AOS / IOS 글로벌 출시
 - 사용 엔진 : Unity
 - 담당 파트
 	- 인게임 퍼즐 제작
 	- 아웃게임 월드 제작
+	- 각종 컨텐츠 제작
+	- 개발 편의를 위한 도구 제작
 - [**상세 페이지**](./01_merge_survival)
 
 ---
@@ -74,7 +76,7 @@ description: 게임 개발 프로그래머의 포트폴리오 페이지 입니�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3C4teTSvbkU?si=rBKJn711FODT9IXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-- 소속 : 트리노드
+- 소속 : 트리노드 (2018.06 ~ 2022.02)
 - 출시 여부 : IOS / AOS 일본 서비스중
 - 사용 엔진 : Unity
 - 담당 파트 : 클라이언트 (3년) / 서버 (6개월)
