@@ -33,14 +33,14 @@ description: 게임 개발 프로그래머의 포트폴리오 페이지 입니�
 - 이메일 : trickbreak@naver.com
 - 블로그 : [https://trickbreak.github.io/](https://trickbreak.github.io/)
 
-게임 개발자로서 다양한 프로젝트를 경험하며, Unity와 C#을 주력으로 게임 개발을 진행하고 있습니다. 개발 과정에서 발생하는 이슈를 해결하며 배우는 것을 즐기며, 이를 기록하고 공유하기 위해 기술 [블로그](https://trickbreak.github.io/)를 운영하고 있습니다.
+게임 개발자로서 다양한 프로젝트를 개발하고 라이브하며, Unity와 C#을 주력으로 게임 개발을 진행하고 있습니다. 개발 과정에서 발생하는 이슈를 해결하며 배우는 것을 즐기며, 이를 기록하고 공유하기 위해 기술 [블로그](https://trickbreak.github.io/)를 운영하고 있습니다.
 
 ---
 
 ## 기술 및 역량
 
-- 프로그래밍 언어 : C#, C++, C, Python, Objective-C, Java
-- 게임엔진 : Unity, Cocos2d
+- 메인 : C#, Unity
+- 사용해본 프로그래밍 언어 및 툴 : C++, C, Python, Objective-C, Java, cocos2d
 - Unity Custom Editor 를 이용한 Unity Tool 개발
 - CI/CD : Jenkins, GitHub Actions
 - aos, ios 네이티브 유니티 플러그인 제작 (알림, 햅틱 진동 처리 등)
@@ -80,7 +80,8 @@ description: 게임 개발 프로그래머의 포트폴리오 페이지 입니�
 - 담당 파트 : 클라이언트 (3년) / 서버 (6개월)
 	- 인 / 아웃게임 컨텐츠 제작
 	- 광고 및 각종 플러그인 관리
-	- 유니티 버전 관리
+	- 유니티 버전 업데이트
+	- 마켓 정책 대응
 	- CI / CD (빌드 및 배포) 툴 관리
 	- 서버 컨텐츠 작업
 	- 어드민툴 개선
